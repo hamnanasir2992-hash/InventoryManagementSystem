@@ -1,0 +1,45 @@
+104
+USB Flash Drive 64GB
+1200
+26
+20
+109
+Power Bank
+3500
+12
+5
+102
+Wireless Mouse
+1800
+4
+10
+108
+Printer Ink Cartridge
+3100
+6
+12
+106
+27-inch Monitor
+52000
+8
+8
+101
+Laptop
+185000
+19
+5
+107
+Webcam HD
+4200
+22
+10
+103
+Mechanical Keyboard
+7500
+40
+10
+105
+HDMI Cable
+650
+85
+25
